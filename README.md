@@ -147,5 +147,3 @@ flowchart TD
 - **Widget not displaying**: install `ipywidgets` in Google Colab and restart runtime.
 
 ---
-
-Enjoy exploring political language dynamics!
