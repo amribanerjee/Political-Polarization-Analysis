@@ -78,7 +78,7 @@ flowchart TD
   X[Extract DOCX text]
   C[Clean and lemmatize]
   I[Compute IDF and vocab]
-  T[Build TFIDF vectors]
+  T[Build TF-IDF vectors]
   J[Jaccard similarity]
   CO[Cosine similarity]
   V[Sentiment with VADER]
