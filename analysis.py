@@ -1,6 +1,6 @@
-#nltk.download('vader_lexicon')
-#!python -m spacy download en_core_web_md
-#!python -m spacy download en_core_web_md
+nltk.download('vader_lexicon')
+!python -m spacy download en_core_web_md
+!python -m spacy download en_core_web_md
 import nltk
 import spacy
 import numpy as np
